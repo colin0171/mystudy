@@ -16,7 +16,7 @@ ooo44444
 master2222222222
 ooo44444
 
-This is tmp!!!!!!!!!!!!!
+This is tmp!
 
 
 tmp
@@ -33,6 +33,6 @@ ppp 1
 33TTTTTTT
 
 1111222
-1111
+1111555555555
 
 Last Line by indi!
